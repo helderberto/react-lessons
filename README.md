@@ -20,7 +20,7 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 * [Babel Compilador](lessons/m01/babel-compilador.md);
 * [Conheçendo Componentes](lessons/m01/conhecendo-componentes.md);
 
-### Módulo 01 - React + Webpack
+### React + Webpack
 
 * [Webpack](lessons/m01-react-webpack/webpack.md);
 
