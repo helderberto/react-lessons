@@ -14,8 +14,16 @@
   <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
 
   <script type="text/babel">
+    class Title extends React.Component {
+      render() {
+        return (
+          <h1>Hello World</h1>
+        )
+      }
+    };
+
     ReactDOM.render(
-      <h1>Hello World</h1>, 
+      <Title />, 
       document.getElementById('app')
     );
   </script>

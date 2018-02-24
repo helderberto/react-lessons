@@ -18,6 +18,7 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 * [Sobre a biblioteca ReactJS](lessons/m01/sobre-biblioteca-reactjs.md);
 * [Babel Compilador](lessons/m01/babel-compilador.md);
+* [Conheçendo Componentes](lessons/m01/conhecendo-componentes.md);
 
 ## Licença
 
