@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "webpack": "./node_modules/.bin/webpack"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
