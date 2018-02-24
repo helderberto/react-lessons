@@ -1,10 +1,11 @@
-# ReactJS Estudos
+# Estudos sobre a biblioteca ReactJS e o seu universo
 
 Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 ## Instalação
 
-* [NodeJS](https://nodejs.org/en).
+* [NodeJS](https://nodejs.org/en);
+* [React & React DOM](https://reactjs.org/docs/add-react-to-an-existing-app.html#installing-react).
 
 ## Guias
 
