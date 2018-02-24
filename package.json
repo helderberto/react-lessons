@@ -1,0 +1,21 @@
+{
+  "name": "react-lessons",
+  "version": "1.0.0",
+  "description": "Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helderburato/react-lessons.git"
+  },
+  "author": "Helder Burato Berto <helder.burato@gmail.com> (https://helderburato.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helderburato/react-lessons/issues"
+  },
+  "homepage": "https://github.com/helderburato/react-lessons#readme"
+}

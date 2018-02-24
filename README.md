@@ -2,7 +2,7 @@
 
 Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
-## Instalação
+## Requisitos
 
 * [NodeJS](https://nodejs.org/en);
 * [React & React DOM](https://reactjs.org/docs/add-react-to-an-existing-app.html#installing-react).
@@ -19,6 +19,10 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 * [Sobre a biblioteca ReactJS](lessons/m01/sobre-biblioteca-reactjs.md);
 * [Babel Compilador](lessons/m01/babel-compilador.md);
 * [Conheçendo Componentes](lessons/m01/conhecendo-componentes.md);
+
+### Módulo 01 - React + Webpack
+
+* [Webpack](lessons/m01-react-webpack/webpack.md);
 
 ## Licença
 
