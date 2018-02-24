@@ -4,7 +4,7 @@
 
 * Você sempre deve adicionar o método `render` para retornar a marcação interna do componente;
   * Não quebrar as tags HTML após o `return` no método `render`, pois o javascript automaticamente adiciona `;` por padrão caso não encontre elementos, ocasionando erros de sintaxe;
-  * Você não pode retornar elementos sem uma tag que envolvá-os, não há possibilidade de retornar mais de um elemento em uma mesma função `render`.
+  * Você não pode retornar elementos sem uma tag que envolvá-os, não há possibilidade de retornar mais de um elemento sem que estejam envolvidos por um elemento pai.
 
 ```
 ## EXEMPLOS INVÁLIDOS: ##
