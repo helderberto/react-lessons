@@ -1,7 +1,13 @@
 'use strict';
 
-function sum (val1, val2) {
-  return val1 + val2;
+const React = require('react');
+
+const Title = class Title extends React.Component {
+  render() {
+    return(
+      React.createElement('h1', null, 'Título')
+    )
+  }
 }
 
-module.exports = sum;
+module.exports = Title;
