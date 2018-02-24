@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "webpack": "./node_modules/.bin/webpack"
+    "webpack": "./node_modules/.bin/webpack",
+    "server": "./node_modules/.bin/webpack-dev-server"
   },
   "devDependencies": {
-    "webpack": "^3.11.0"
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
   }
 }

@@ -23,6 +23,7 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 ### React + Webpack
 
 * [Webpack](lessons/m01/webpack.md);
+* [Webpack Dev Server](lessons/m01/webpack-dev-server.md);
 
 ## Licença
 
