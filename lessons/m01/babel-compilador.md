@@ -1,13 +1,14 @@
 # Babel é um compilador JavaScript
 
-[BabelJS](https://babeljs.io) é um compilador JavaScript indicado na própria documentação do React onde tem a funcionalidade de compilar 
-os scripts para que o browser reconheça as funcionalidades do ES6, ES7. Segue um exemplo de código a seguir:
+## [Descrição](#descrição)
 
-## [Instalação](#babel-install)
+[BabelJS](https://babeljs.io) é um compilador JavaScript indicado na própria documentação do React onde tem a funcionalidade de compilar os scripts para que o browser reconheça as funcionalidades do ES6, ES7.
+
+## [Instalação](#instalação)
 
 Para instalar no seu projeto, deve ser executado o comando `npm i --save-dev babel-core`.
 
-## [Presets](#babel-presets)
+## [Presets](#presets)
 
 Para utilizar presets em conjunto com o BabelJS, você deve instalar `npm i --save-dev babel-loader`.
 
@@ -16,7 +17,7 @@ Para utilizar presets em conjunto com o BabelJS, você deve instalar `npm i --sa
   * Preset para utilização versões mais atuais do EcmaScript como funcionalidades do ES7, deve ser instalado `npm i --save-dev babel-preset-stage-0`;
   * Preset para utilização de JSX, deve ser instalado `npm i --save-dev babel-preset-react`.
 
-## [Configuração](#babel-config)
+## [Configuração](#configuração)
 
 Após efetuadas as instalações você deve criar o arquivo `.babelrc` na raíz do seu projeto definindo os presets que serão utilizados no seu projeto.
 

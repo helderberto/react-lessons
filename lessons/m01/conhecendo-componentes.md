@@ -1,6 +1,10 @@
-# Conhecendo componentes React
+# Conhecendo componentes ReactJS
 
-* Os componentes criados em React por convenção são criados utilizando a primeira letra maiúscula para serem diferenciados de tags HTML's comuns;
+## [Descrição](#descrição)
+
+Os componentes criados em React por convenção são criados utilizando a primeira letra maiúscula para serem diferenciados de tags HTML's comuns;
+
+## [Convenções](#convenções)
 
 * Você sempre deve adicionar o método `render` para retornar a marcação interna do componente;
   * Não quebrar as tags HTML após o `return` no método `render`, pois o javascript automaticamente adiciona `;` por padrão caso não encontre elementos, ocasionando erros de sintaxe;

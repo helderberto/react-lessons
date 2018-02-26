@@ -16,21 +16,33 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 ## Módulo 01
 
-* [Sobre a biblioteca ReactJS](lessons/m01/sobre-biblioteca-reactjs.md);
-* [Babel Compilador](lessons/m01/babel-compilador.md);
-  * [Instalação](lessons/m01/babel-compilador.md#babel-config);
-  * [Presets](lessons/m01/babel-compilador.md#babel-presets);
-  * [Configuração](lessons/m01/babel-compilador.md#babel-config).
-* [Conheçendo Componentes](lessons/m01/conhecendo-componentes.md);
+* Sobre a biblioteca ReactJS:
+  * [Descrição](lessons/m01/sobre-biblioteca-reactjs.md#descrição);
+  * [Convenções](lessons/m01/sobre-biblioteca-reactjs.md#convenções);
+  * [Quando não utilizar](lessons/m01/sobre-biblioteca-reactjs.md#quando-não-utilizar);
+  * [Problemas que resolve](lessons/m01/sobre-biblioteca-reactjs.md#problemas-que-resolve);
+  * [Observações](lessons/m01/sobre-biblioteca-reactjs.md#observações).
+* Babel Compilador:
+  * [Descrição](lessons/m01/babel-compilador.md#descrição);
+  * [Instalação](lessons/m01/babel-compilador.md#instalação);
+  * [Presets](lessons/m01/babel-compilador.md#presets);
+  * [Configuração](lessons/m01/babel-compilador.md#configuração).
+* Conheçendo Componentes:
+  * [Descrição](lessons/m01/conhecendo-componentes.md#descrição);
+  * [Convenções](lessons/m01/conhecendo-componentes.md#convenções).
 
 ### React + Webpack
 
-* [Webpack](lessons/m01/webpack.md);
-  * [Instalação](lessons/m01/webpack.md#webpack-install);
-  * [Configuração](lessons/m01/webpack.md#webpack-config);
-  * [Módulos](lessons/m01/webpack.md#webpack-modules);
-  * [Sourcemaps](lessons/m01/webpack.md#webpack-sourcemaps).
-* [Webpack Dev Server](lessons/m01/webpack-dev-server.md);
+* Webpack:
+  * [Descrição](lessons/m01/webpack.md#descrição);
+  * [Instalação](lessons/m01/webpack.md#instalação);
+  * [Configuração](lessons/m01/webpack.md#configuração);
+  * [Módulos](lessons/m01/webpack.md#módulos);
+  * [Sourcemaps](lessons/m01/webpack.md#sourcemaps).
+* Webpack Dev Server:
+  * [Descrição](lessons/m01/webpack-dev-server.md#descrição);
+  * [Instalação](lessons/m01/webpack-dev-server.md#instalação);
+  * [Configuração](lessons/m01/webpack-dev-server.md#configuração).
 
 ## Licença
 

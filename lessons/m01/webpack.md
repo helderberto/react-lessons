@@ -1,16 +1,16 @@
 # Webpack
 
-## O que é?
+## [Descrição](#descricão)
 
 O Webpack é um _module bundler_ um sistema de módulos, onde ele diversos módulos e cria um _bundle_ em `EcmaScript5` no formato que os browsers possam compreender.
 
 A ferramenta oferece diversas funcionalidades e você pode saber mais dos seus poderes na própria documentação clicando [aqui](https://webpack.github.io).
 
-## [Instalação](#webpack-install)
+## [Instalação](#instalação)
 
 * Rodar o comando `npm install --save-dev webpack`.
 
-## [Configuração](#webpack-config)
+## [Configuração](#configuração)
 
 * Criar arquivo `webpack.config.js` na raíz do projeto;
 * Necessário definir a entrada e saída padrão, conforme o exemplo a seguir:
@@ -33,7 +33,7 @@ module.exports = {
 }
 ```
 
-## [Módulos](#webpack-modules)
+## [Módulos](#módulos)
 
 Adicionando módulos a serem carregados:
 
@@ -59,7 +59,7 @@ module.exports = {
 }
 ```
 
-## [Sourcemaps](#webpack-sourcemaps)
+## [Sourcemaps](#sourcemaps)
 
 Sourcemaps mapeiam os elementos com seus arquivos de origem, facilitando na hora de efetuar o debug, sem você ter de lidar com o arquivo gerado pelo webpack.
 

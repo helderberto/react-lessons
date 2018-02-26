@@ -1,14 +1,14 @@
 # Webpack Dev Server
 
-## O que é?
+## [Descrição](#descricão)
 
 Oferece a funcionalidade de um servidor onde acompanha as mudanças dos arquivos e cria um novo _bundle_ em tempo de execução.
 
-## Instalação
+## [Instalação](#instalação)
 
 * Rodar o comando `npm install --save-dev webpack-dev-server`.
 
-## Configurações
+## [Configuração](#configuração)
 
 * Editar o arquivo de `webpack.config.js`, adicionar o `publicPath` onde será atualizado o bundle em memória:
 ```
