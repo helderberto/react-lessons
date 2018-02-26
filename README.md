@@ -47,6 +47,11 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
   * [Descrição](lessons/m01/react-hot-loader.md#descrição);
   * [Instalação](lessons/m01/react-hot-loader.md#instalação);
   * [Configuração](lessons/m01/react-hot-loader.md#configuração).
+* JavaScript Standard Style:
+  * [Descrição](lessons/m01/javascript-standard-style.md#descrição);
+  * [Instalação](lessons/m01/javascript-standard-style.md#instalação);
+  * [Configuração](lessons/m01/javascript-standard-style.md#configuração);
+  * [Regras](lessons/m01/javascript-standard-style.md#regras).
 
 ## Licença
 

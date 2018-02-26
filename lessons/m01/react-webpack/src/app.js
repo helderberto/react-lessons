@@ -1,10 +1,8 @@
-'use strict';
-
-import React from 'react';
+import React from 'react'
 
 class App extends React.Component {
-  render() {
-    return(
+  render () {
+    return (
       <div>
         Aplicação
       </div>
@@ -12,4 +10,4 @@ class App extends React.Component {
   }
 }
 
-export default App;
+export default App
