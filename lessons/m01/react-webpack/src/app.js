@@ -5,7 +5,7 @@ import React from 'react';
 class Title extends React.Component {
   render() {
     return(
-      React.createElement('h1', null, 'Título')
+      <h1>Título</h1>
     )
   }
 }

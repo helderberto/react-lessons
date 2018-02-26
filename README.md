@@ -18,11 +18,18 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 * [Sobre a biblioteca ReactJS](lessons/m01/sobre-biblioteca-reactjs.md);
 * [Babel Compilador](lessons/m01/babel-compilador.md);
+  * [Instalação](lessons/m01/babel-compilador.md#babel-config);
+  * [Presets](lessons/m01/babel-compilador.md#babel-presets);
+  * [Configuração](lessons/m01/babel-compilador.md#babel-config).
 * [Conheçendo Componentes](lessons/m01/conhecendo-componentes.md);
 
 ### React + Webpack
 
 * [Webpack](lessons/m01/webpack.md);
+  * [Instalação](lessons/m01/webpack.md#webpack-install);
+  * [Configuração](lessons/m01/webpack.md#webpack-config);
+  * [Módulos](lessons/m01/webpack.md#webpack-modules);
+  * [Sourcemaps](lessons/m01/webpack.md#webpack-sourcemaps).
 * [Webpack Dev Server](lessons/m01/webpack-dev-server.md);
 
 ## Licença
