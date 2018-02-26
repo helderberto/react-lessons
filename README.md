@@ -13,7 +13,7 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 # Aulas
 
-## Módulo 01
+## Módulo 01 - Parte I
 
 * Sobre a biblioteca ReactJS:
   * [Descrição](lessons/m01/sobre-biblioteca-reactjs.md#descrição);
@@ -30,7 +30,9 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
   * [Descrição](lessons/m01/conhecendo-componentes.md#descrição);
   * [Convenções](lessons/m01/conhecendo-componentes.md#convenções).
 
-### React + Webpack
+---
+
+## Módulo 01 - Parte I (React + Webpack)
 
 * Webpack:
   * [Descrição](lessons/m01/webpack.md#descrição);
@@ -51,6 +53,12 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
   * [Instalação](lessons/m01/javascript-standard-style.md#instalação);
   * [Configuração](lessons/m01/javascript-standard-style.md#configuração);
   * [Regras](lessons/m01/javascript-standard-style.md#regras).
+
+---
+
+## Módulo 01 - Parte II
+
+
 
 ## Licença
 
