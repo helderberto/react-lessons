@@ -43,6 +43,10 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
   * [Descrição](lessons/m01/webpack-dev-server.md#descrição);
   * [Instalação](lessons/m01/webpack-dev-server.md#instalação);
   * [Configuração](lessons/m01/webpack-dev-server.md#configuração).
+* React Hot Loader:
+  * [Descrição](lessons/m01/react-hot-loader.md#descrição);
+  * [Instalação](lessons/m01/react-hot-loader.md#instalação);
+  * [Configuração](lessons/m01/react-hot-loader.md#configuração).
 
 ## Licença
 
