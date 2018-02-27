@@ -6,6 +6,8 @@ class App extends React.Component {
     return (
       <div>
         <Title name='Helder' />
+        <label htmlFor='input' data-label='input'>Input</label>
+        <input type='text' id='input' aria-hidden='true' />
       </div>
     )
   }
