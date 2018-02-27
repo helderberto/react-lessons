@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div>
         <Title name='Helder' lastname={{ first: 'Burato', last: 'Berto' }} />
-        {['blue', 'orange', 'green'].map((square) => (
-          <Square key={square} color={square} />
+        {['blue', 'orange', 'green'].map((square, index) => (
+          <Square key={index} color={square} />
         ))}
       </div>
     )
