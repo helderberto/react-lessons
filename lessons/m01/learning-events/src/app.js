@@ -1,13 +1,16 @@
 'use strict'
 
 import React, { Component } from 'react'
-import Title from './title'
+import Button from './button'
 
 class App extends Component {
   render () {
     return (
-      <div>
-        <Title name='Helder' lastname={{ first: 'Burato', last: 'Berto' }} />
+      <div className='container'>
+        <Button>
+          <span>Texto</span>
+          outro texto
+        </Button>
       </div>
     )
   }
