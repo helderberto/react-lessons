@@ -5,7 +5,7 @@ class App extends React.Component {
   render () {
     return (
       <div>
-        <Title name='Helder' lastname='Burato Berto' />
+        <Title name='Helder' lastname={{ first: 'Burato', last: 'Berto' }} />
       </div>
     )
   }
