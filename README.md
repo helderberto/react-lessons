@@ -77,7 +77,10 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
     * [componentWillUpdate](lessons/m01/componentes-lifecycle.md#componentwillupdate);
     * [componentDidUpdate](lessons/m01/componentes-lifecycle.md#componentdidupdate).
   * [Documentação](https://reactjs.org/docs/state-and-lifecycle.html).
-
+* __Prop Types:__
+  * [Descrição](lessons/m01/componentes-proptypes.md#descrição);
+  * [Instalação](lessons/m01/componentes-proptypes.md#instalação);
+  * [Documentação](https://reactjs.org/docs/typechecking-with-proptypes.html#proptypes).
 ---
 
 ## Licença
