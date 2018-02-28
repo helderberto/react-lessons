@@ -64,7 +64,8 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
   * [render](lessons/m01/componentes-lifecycle.md#render);
   * [componentWillUnmount](lessons/m01/componentes-lifecycle.md#componentwillunmount);
   * [componentWillReceiveProps](lessons/m01/componentes-lifecycle.md#componentwillreceiveprops);
-  * [shouldComponentUpdate](lessons/m01/componentes-lifecycle.md#shouldcomponentupdate).
+  * [shouldComponentUpdate](lessons/m01/componentes-lifecycle.md#shouldcomponentupdate);
+  * [componentWillUpdate](lessons/m01/componentes-lifecycle.md#componentwillupdate).
 
 ---
 
