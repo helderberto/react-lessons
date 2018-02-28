@@ -12,11 +12,11 @@ O método `componentDidMount` é executado logo após o componente ter sido rend
 
 ## [render](#render)
 
-O método `render` é utilizado para renderizar os elementos do seu componente.
+O método `render` é executado sempre que o componente tem o DOM renderizado no browzer.
 
 ## [componentWillUnmount](#componentwillunmount)
 
-O método `componentWillUnmount` é utilizado para desmontar componentes.
+O método `componentWillUnmount` é executado sempre que o componente for desmontado.
 
 ## [componentWillReceiveProps](#componentwillreceiveprops)
 
@@ -24,9 +24,12 @@ O método `componentWillReceiveProps` é atualizado sempre que recebe novas prop
 
 ## [shouldComponentUpdate](#shouldcomponentupdate)
 
-O método `shouldComponentUpdate` é utilizado quando você por alguma razão quer evitar que o componente seja atualizado, ele recebe dois parâmetros 
-`nextProps` e `nextState` onde você pode utiliza-los para fazer verificações para não atualização do componente.
+O método `shouldComponentUpdate` é executado quando você por alguma razão quer evitar que o componente seja atualizado, ele recebe dois parâmetros `nextProps` e `nextState` onde você pode utiliza-los para fazer verificações para não atualização do componente.
 
 ## [componentWillUpdate](#componentwillupdate)
 
-O método `componentWillUpdate` é utilizado para fazer alguma verificação ou alguma chamada, mas não devem ser modificados estados do componente neste momento.
+O método `componentWillUpdate` é executado após o componente ter suas propriedades atualizads, é indicado o uso para efetuar verificações, mas não devem ser modificados estados do componente neste momento.
+
+## [componentDidUpdate](#componentdidupdate)
+
+O método `componentDidUpdate` é executado após a renderização do componente, ele tem dois parâmetros para utilização `prevProps` e `prevState`. Uma observação interessante neste método é que você consegue ter um histórico de alterações do componente, pois sempre consegue pegar a alteração anterior.
