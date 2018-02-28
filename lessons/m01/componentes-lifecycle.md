@@ -17,3 +17,7 @@ O método `render` é utilizado para renderizar os elementos do seu componente.
 ## [componentWillUnmount](#componentwillunmount)
 
 O método `componentWillUnmount` é utilizado para desmontar componentes.
+
+## [componentWillReceiveProps](#componentwillreceiveprops)
+
+O método `componentWillReceiveProps` é atualizado sempre que recebe novas propriedades, recebendo como parâmetro `nextProps`.

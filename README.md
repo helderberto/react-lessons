@@ -58,11 +58,12 @@ Repositório voltado aos estudos da biblioteca ReactJS criada pelo facebook.
 
 ## Módulo 01 - Parte II
 
-* Component Lifecycle:
-  * [Método componentWillMount](lessons/m01/lifecycle.md#componentwillmount);
-  * [Método componentDidMount](lessons/m01/lifecycle.md#componentdidmount);
-  * [Método render](lessons/m01/lifecycle.md#render);
-  * [Método componentWillUnmount](lessons/m01/lifecycle.md#componentwillunmount).
+* Componentes Lifecycle:
+  * [componentWillMount](lessons/m01/componentes-lifecycle.md#componentwillmount);
+  * [componentDidMount](lessons/m01/componentes-lifecycle.md#componentdidmount);
+  * [render](lessons/m01/componentes-lifecycle.md#render);
+  * [componentWillUnmount](lessons/m01/componentes-lifecycle.md#componentwillunmount);
+  * [componentWillReceiveProps](lessons/m01/componentes-lifecycle.md#componentwillreceiveprops).
 
 ---
 
