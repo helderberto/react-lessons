@@ -21,3 +21,8 @@ O método `componentWillUnmount` é utilizado para desmontar componentes.
 ## [componentWillReceiveProps](#componentwillreceiveprops)
 
 O método `componentWillReceiveProps` é atualizado sempre que recebe novas propriedades, recebendo como parâmetro `nextProps`.
+
+## [shouldComponentUpdate](#shouldcomponentupdate)
+
+O método `shouldComponentUpdate` é utilizado quando você por alguma razão quer evitar que o componente seja atualizado, ele recebe dois parâmetros 
+`nextProps` e `nextState` onde você pode utiliza-los para fazer verificações para não atualização do componente.
